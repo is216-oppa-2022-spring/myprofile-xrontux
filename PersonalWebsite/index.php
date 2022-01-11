@@ -1,4 +1,5 @@
 <!Doctype html>
+<!-- WEEK 1 CHANGES  -->
 <html>
     <head><title>Daniel Choi</title></head>
 
@@ -26,7 +27,7 @@
         </p>
 
     </body>
-
+<!-- WEEK 1 CHANGES -->
 
 
 
