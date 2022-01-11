@@ -2,7 +2,7 @@
 <!-- WEEK 1 CHANGES  -->
 <html>
     <head><title>Daniel Choi</title></head>
-
+    <center>
     <body>
         <h3 style="text-align:center;"> DANIEL CHOI  </h3>
 
@@ -25,7 +25,7 @@
             </ul>
 
         </p>
-
+    </center> 
     </body>
 <!-- WEEK 1 CHANGES -->
 
