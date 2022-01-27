@@ -1,0 +1,23 @@
+.logo{
+    background-color: grey;
+}
+.logo img{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px ; 
+    height: 300px;
+}
+.carousel-item h5 p{
+    color:white;
+}
+body { 
+    background-color: rgb(253, 231, 235);
+}
+#background{ 
+    background-color: rgb(253, 231, 235);
+}
+
+#links {
+    background-color: rgb(253, 231, 235);
+}
