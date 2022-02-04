@@ -10,9 +10,10 @@ Each week, you need to **update README** and describe the new changes you've imp
 * Commited and pushed a file to my repository!
 
 ## (Week 2) CSS to Beautify My Web Pages
-* Added a new webpage for my resume.
+* Added a new webpage for my personal webpage.
 * Applied CSS I learned in class to my web pages.
 
 ## (Week 3) something goes here
-* something
-* something
+* Applied bootstrap to decorate my webpage
+* Build in Nav bar
+
